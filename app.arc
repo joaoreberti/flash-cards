@@ -1,6 +1,9 @@
 @app
 flash-cards-6c28
 
+@aws 
+region eu-central-1
+
 @http
 /*
   method any
