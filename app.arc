@@ -1,5 +1,5 @@
 @app
-my-remix-app-6c28
+flash-cards-6c28
 
 @http
 /*
